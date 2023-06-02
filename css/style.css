@@ -118,7 +118,7 @@ body {
 
 .menu-list {
   display: flex;
-  gap: 40px;
+  gap: 24px;
 }
 
 .site-nav-list {
