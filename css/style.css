@@ -503,7 +503,7 @@ body {
 }
 
 .footer-form-field-wrapper {
-  margin-right: 24px;
+  gap: 24px;
 }
 
 .footer-form-input {
