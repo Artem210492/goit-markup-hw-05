@@ -892,6 +892,7 @@ body {
 }
 
 .button-modal-submit {
+  fill: #f4f4fd;
   font-family: var(--main-font-family);
   display: block;
   margin-left: auto;
