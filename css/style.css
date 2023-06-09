@@ -865,7 +865,6 @@ body {
   background-color: var(--btn-hover-color);
   border: none;
   fill: var(--primary-bg-color);
-  border-color: var(--btn-hover-color);
 }
 
 .checkbox-icon {
