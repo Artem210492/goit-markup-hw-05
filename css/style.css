@@ -749,7 +749,7 @@ body {
 
 .modal-close-btn:hover .modal-close-icon,
 .modal-close-btn:focus .modal-close-icon {
-  fill: var(--primary-bg-color);
+  fill: #f4f4fd;
 }
 
 .is-hidden {
