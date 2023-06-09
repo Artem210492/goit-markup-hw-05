@@ -864,8 +864,7 @@ body {
 .checkbox-own:checked + .checkbox-wrapper > .checkbox-icon {
   background-color: var(--btn-hover-color);
   border: none;
-  fill: var(--primary-bg-color);
-  border-color: var(--btn-hover-color);
+  fill: #f4f4fd;
 }
 
 .checkbox-icon {
