@@ -702,6 +702,7 @@ body {
 }
 
 .modal {
+  fill: #f4f4fd;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -892,7 +893,6 @@ body {
 }
 
 .button-modal-submit {
-  fill: #f4f4fd;
   font-family: var(--main-font-family);
   display: block;
   margin-left: auto;
