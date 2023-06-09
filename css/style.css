@@ -904,6 +904,8 @@ body {
   letter-spacing: 0.04em;
   color: var(--primary-bg-color);
   background-color: var(--accent-color);
+  border: none;
+  border-radius: 4px;
   cursor: pointer;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
