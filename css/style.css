@@ -496,6 +496,7 @@ body {
 
 .form-footer {
   display: flex;
+  gap: 24px;
 }
 
 .footer-form-field-wrapper {
