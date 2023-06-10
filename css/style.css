@@ -804,6 +804,7 @@ body {
 
 .icon-field {
   position: absolute;
+  fill: var(--accent-color);
   left: 16px;
   top: 50%;
   transform: translateY(-50%);
@@ -828,6 +829,7 @@ body {
   border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 4px;
   background-color: transparent;
+  display: block;
   padding: 8px 16px;
   outline: transparent;
   resize: none;
