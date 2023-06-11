@@ -803,7 +803,6 @@ body {
 
 .icon-field {
   position: absolute;
-  fill: var(--accent-color);
   left: 16px;
   top: 50%;
   transform: translateY(-50%);
