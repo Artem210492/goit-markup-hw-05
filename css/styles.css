@@ -917,13 +917,13 @@ button:focus {
 }
 
 .checkbox-icon {
-  fill: #f4f4fd;
+  fill: var(--light-mode-background-color);
   opacity: 0;
 }
 
 .contact-form-checkbox:checked + .checkbox-label > .checkbox-icon-wrapper {
   background-color: var(--pressed-state-color);
-  fill: var(--page-background-color);
+  fill: #f4f4fd;
   border: none;
   border-color: var(--pressed-state-color);
 }
