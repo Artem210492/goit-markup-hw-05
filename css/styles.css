@@ -887,7 +887,7 @@ button:focus {
   top: 50%;
   transform: translateY(-50%);
   left: 16px;
-  fill: #f4f4fd;
+  fill: var(--overlay-color);
   transition: fill 250ms var(--time-function);
 }
 
@@ -917,7 +917,7 @@ button:focus {
 }
 
 .checkbox-icon {
-  fill: var(--light-mode-background-color);
+  fill: #f4f4fd;
   opacity: 0;
 }
 
