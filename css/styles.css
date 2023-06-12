@@ -816,7 +816,7 @@ button:focus {
   border-radius: 4px;
   resize: none;
   padding: 8px 16px;
-  border: 1px solid rgba(46, 47, 66, 0.2);
+  border: 1px solid rgba(46, 47, 66, 0.4);
   font-size: 12px;
   line-height: 1.17;
   color: rgba(46, 47, 66, 0.4);
@@ -887,7 +887,7 @@ button:focus {
   top: 50%;
   transform: translateY(-50%);
   left: 16px;
-  fill: var(--overlay-color);
+  fill: #f4f4fd;
   transition: fill 250ms var(--time-function);
 }
 
