@@ -499,10 +499,6 @@ body {
   gap: 24px;
 }
 
-.footer-form-field-wrapper {
-  margin-right: 24px;
-}
-
 .footer-form-input {
   background-color: transparent;
   border: 1px solid var(--primary-bg-color);
